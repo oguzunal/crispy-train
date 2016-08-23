@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6799E348-F50F-02AD-673E-5E7827E43FBD}") = "crispy-train", "Assembly-CSharp.csproj", "{44633451-8D1F-C61D-1F04-992A54E96FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44633451-8D1F-C61D-1F04-992A54E96FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44633451-8D1F-C61D-1F04-992A54E96FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44633451-8D1F-C61D-1F04-992A54E96FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44633451-8D1F-C61D-1F04-992A54E96FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
